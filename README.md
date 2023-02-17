@@ -22,7 +22,6 @@
 </h1>
 
 
-![Snake animation](https://github.com/TheReyzer/TheReyzer/blob/output/github-contribution-grid-snake.svg)
 
 
 ### :fire: Meus status:
